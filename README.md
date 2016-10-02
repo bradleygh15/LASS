@@ -1,2 +1,2 @@
 # LASS
-C++ port of the python program
+a program to solve systems of matrices, compute eigenvalues etc.
